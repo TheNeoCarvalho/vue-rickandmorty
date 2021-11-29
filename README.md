@@ -1,3 +1,4 @@
+# [página](https://theneocarvalho.github.io/vue-rickandmorty/)
 # Conhecendo o Vuejs
 
 [x] O que é o VueJS?
@@ -17,11 +18,11 @@
 # Bora codar
 
 [x] Iniciando o projeto/Setup
-[] Requisições HTTP
+[x] Requisições HTTP
     [] fetch [api](https://rickandmortyapi.com/api/character)
     [] fetch Busca [api](https://rickandmortyapi.com/api/character?name={termo})
-[] Salvar resposta
-[] Mostrar cards
-[] Buscar
+[x] Salvar resposta
+[x] Mostrar cards
+[x] Buscar
 
-[] Done/Finish
+[x] Done/Finish
